@@ -39,6 +39,7 @@ div.container {
 }
 
 table {
+    margin-top: 30px;
     font-family: arial, sans-serif;
     border-collapse: collapse;
     width: 100%;
@@ -53,4 +54,27 @@ td, th {
 
 tr:nth-child(even) {
     background-color: lightgray;
+}
+
+#red{
+    background-color: red;
+}
+#blue{
+    background-color: lightblue;
+}
+#green{
+    background-color: green;
+}
+#black
+{
+    background-color: black;
+    color: white;
+}
+#white
+{
+    background-color: white;
+}
+#lightG
+{
+    background-color: lightgreen;
 }
